@@ -1,0 +1,2 @@
+/*para agregar un campo a una tabla */
+ALTER TABLE MYTABLE ADD MYNEWCOLUMN VARCHAR(200) DEFAULT 'SNUGGLES'
